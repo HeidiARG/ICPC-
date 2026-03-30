@@ -1,0 +1,1 @@
+{"name":"Local: ABflip","url":"/home/heidiaguirre/Documentos/PruebaICPC/teoria de nums/ABflip.cpp","tests":[{"id":1772664377560,"input":"1\n5 3\n18 3 7 2 9\n3 1 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/heidiaguirre/Documentos/PruebaICPC/teoria de nums/ABflip.cpp","group":"local","local":true}
